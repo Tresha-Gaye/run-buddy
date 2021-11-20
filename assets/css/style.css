@@ -138,6 +138,11 @@ body {
        margin: 0 auto;
    }
 
+   .steps {
+       text-align: center;
+       background: #fce138;  
+   }
+
    .section-title {
        font-size: 55px;
        color: #024e76;
