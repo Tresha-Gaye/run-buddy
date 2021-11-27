@@ -88,9 +88,7 @@ body {
        flex-wrap: wrap;
        align-items: flex-start;
    }
-   /* Hero Style End */
 
-   /* Hero Call to Action style */
    .hero-cta {
        width:35%;
        text-align: right;
@@ -105,10 +103,7 @@ body {
        font-size: 55px;
        color: #fce138;
    }
-   /*Hero Call to Action style end */
 
-
-   /* Hero Form Style Start*/
    .hero-form {
        background-color: #fce138;
        color: #024e76;
